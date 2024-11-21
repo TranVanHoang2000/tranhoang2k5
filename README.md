@@ -1,5 +1,5 @@
-Link Tải Termux_1.1.9:
-Link Tải Tun2tap_2.1:
+Link Tải Termux_1.1.9:https://drive.google.com/file/d/15QA-7JVwN3FZvQpW4NPhaKOz8UOGuP7x/view?usp=drivesdk
+Link Tải Tun2tap_2.1:https://drive.google.com/file/d/1-Bom_Xv0Kum3iZTpaH9ZIgdLDusDWgI0/view?usp=drivesdk
 Tun2tap Thì Làm Theo Các Bước Sau:
 B1:Thay Ip Thành 127.0.0.1
 B2:Đổi Port Thành 1080
